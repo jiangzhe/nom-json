@@ -1,0 +1,12 @@
+[package]
+name = "nom-json"
+version = "0.1.0"
+authors = ["Zhe Jiang <nju.jiangzhe@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nom = "5.1.2"
+bigdecimal = "0.1.2"
+linked-hash-map = "0.5.3"
